@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Éléments de solution/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="TestArchitecturePoc.Api/TestArchitecturePoc.Api.csproj" />
+  <Project Path="TestArchitecturePoc.Application/TestArchitecturePoc.Application.csproj" />
+  <Project Path="TestArchitecturePoc.ArchitectureTests/TestArchitecturePoc.ArchitectureTests.csproj" />
+  <Project Path="TestArchitecturePoc.Domain/TestArchitecturePoc.Domain.csproj" />
+  <Project Path="TestArchitecturePoc.Infrastructure/TestArchitecturePoc.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@TestArchitecturePoc.Api_HostAddress = http://localhost:5195
+
+GET {{TestArchitecturePoc.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
